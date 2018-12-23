@@ -1,2 +1,2 @@
 # https-github.com-igoraujo-img
-repositorio de magens para consumo via URL
+repositorio de imagens para consumo via URL
